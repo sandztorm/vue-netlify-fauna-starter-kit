@@ -12,4 +12,4 @@
   autoLaunch = true # a Boolean value that determines if Netlify Dev launches the local server address in your browser
 
 [template.environment]
-  FAUNADB_SERVER_SECRET = "your FaunaDB server secret"
+  FAUNADB_SERVER_SECRET = "fnADwrbQbrACDAdqyiId-ldeTh3RDUcs7iFT4IFo"
